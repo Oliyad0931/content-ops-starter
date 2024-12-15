@@ -178,7 +178,7 @@ sections:
         type: Button
       - label: See Tutorials
         altText: Beeksiisahojiilebot
-        url: /
+        url: '/https://my-beeksiisa-app.netlify.app'
         showIcon: true
         icon: arrowRight
         iconPosition: right
