@@ -15,10 +15,16 @@ sections:
       - type: FeaturedItem
         title: Baankii
         subtitle: Beeksiisa Hojii Bankii
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          BAANKII OROMIYAA 
+
+          BANKII HOJII GAMTAA
+
+          BANKII DALDALA ITOLPHIYA
+
+          BANKII SIINQEE
+
+          BANKII GADAA.....
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
