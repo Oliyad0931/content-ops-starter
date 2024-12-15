@@ -187,7 +187,7 @@ sections:
         type: Link
     media:
       url: /images/main-hero.svg
-      altText: Unblock your team boost your time to production preview
+      altText: 'Nu Cina Dhaabadhan Afeera keenya '
       elementId: ''
       type: ImageBlock
     badge:
