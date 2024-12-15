@@ -177,7 +177,7 @@ sections:
         elementId: ''
         type: Button
       - label: See Tutorials
-        altText: ''
+        altText: Beeksiisahojiilebot
         url: /
         showIcon: true
         icon: arrowRight
