@@ -13,7 +13,7 @@ sections:
     subtitle: Subtitle goes here
     items:
       - type: FeaturedItem
-        title: 500k
+        title: Baankii
         subtitle: Beeksiisa Hojii Bankii
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
