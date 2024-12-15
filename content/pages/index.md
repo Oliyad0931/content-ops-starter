@@ -186,7 +186,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
+      url: /images/FB_IMG_17332451347653232.jpg
       altText: 'Nu Cina Dhaabadhan Afeera keenya '
       elementId: ''
       type: ImageBlock
