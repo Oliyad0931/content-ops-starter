@@ -43,7 +43,7 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/icon1.svg
+          url: /images/FB_IMG_17343645465315539.jpg
           styles:
             self:
               borderRadius: x-large
