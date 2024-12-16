@@ -15,7 +15,7 @@ sections:
       - type: FeaturedItem
         title: Baankii
         subtitle: Beeksiisa Hojii Bankii
-        text: >+
+        text: >
           \[ New] Job by Wegagen Bank Dec 16 2024
 
 
@@ -33,15 +33,8 @@ sections:
           Level IV or Diploma in Electricity and related fields
 
 
-          How to Apply
-
-
-          <https://carraadesk.com/job-by-wegagen-bank-dec-16-2024/>
-
-
-          <div style="text-align: center">Application Deadline: December 21,
-          2024Galma'uuf Send Kan jedhu Xuqa</div>
-
+          <div style="text-align: left">How to apply Application Deadline:
+          December 21, 2024Galma'uuf Send Kan jedhu Xuqa</div>
         actions:
           - type: Link
             label: Send
