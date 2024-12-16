@@ -164,15 +164,6 @@ sections:
             borderRadius: x-large
             flexDirection: col-reverse
     actions:
-      - label: ''
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Button
       - type: Link
         altText: Reddit
         url: 'https://carraadesk.com/job-by-wegagen-bank-dec-16-2024/'
