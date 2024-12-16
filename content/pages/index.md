@@ -132,7 +132,7 @@ sections:
       - type: FeaturedItem
         title: Instagram Keenya
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           Follow Gochuu Hin Dagatina
         image:
