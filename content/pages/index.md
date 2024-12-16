@@ -131,7 +131,7 @@ sections:
         type: FeaturedItem
       - type: FeaturedItem
         title: Instagram Keenya
-        tagline: This is the tagline
+        tagline: ''
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify Create site.
