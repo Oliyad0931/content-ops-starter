@@ -108,7 +108,16 @@ sections:
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
-        actions: []
+        actions:
+          - type: Link
+            label: Facebook
+            altText: Facebook
+            url: 'https://www.facebook.com/profile.php?id=61557352214549'
+            showIcon: true
+            icon: facebook
+            iconPosition: left
+            style: secondary
+            elementId: ''
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
