@@ -176,7 +176,7 @@ sections:
         altText: Telus logo
         elementId: ''
       - type: ImageBlock
-        url: /images/contenful-logo.svg
+        url: /images/FB_IMG_17343477082558612.jpg
         altText: Contentful logo
         elementId: ''
       - type: ImageBlock
