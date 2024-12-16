@@ -15,16 +15,31 @@ sections:
       - type: FeaturedItem
         title: Baankii
         subtitle: Beeksiisa Hojii Bankii
-        text: |
-          BAANKII OROMIYAA 
+        text: >
+          \[ New] Job by Wegagen Bank Dec 16 2024
 
-          BANKII HOJII GAMTAA
 
-          BANKII DALDALA ITOLPHIYA
+          Master’s/Bachelor’s Degree in Accounting, Finance, Business
+          Administration or related field 
 
-          BANKII SIINQEE
 
-          BANKII GADAA.....
+          Bachelor’s Degree in Procurement, Supplies Management , Management or
+          related fields
+
+
+          Bachelor’s Degree in Auto Mechanics or related field
+
+
+          Level IV or Diploma in Electricity and related fields
+
+
+          How to Apply 
+
+
+          https\://carraadesk.com/job-by-wegagen-bank-dec-16-2024/
+
+
+          Application Deadline: December 21, 2024
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
