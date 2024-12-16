@@ -67,7 +67,7 @@ sections:
             self:
               borderRadius: x-large
       - title: YouTube
-        subtitle: The Job Stuff
+        subtitle: Odeeffannoo Haaraa Hedduu
         text: >
           YouTube channel Keenya Subscribe Gochuun Nu Cina Dhaabadhan Afeera
           keenya 
