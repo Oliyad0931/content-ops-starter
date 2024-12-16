@@ -235,7 +235,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/FB_IMG_17332451347653232.jpg
+      url: /images/FB_IMG_17343477197137587.jpg
       altText: 'Nu Cina Dhaabadhan Afeera keenya '
       elementId: ''
       type: ImageBlock
