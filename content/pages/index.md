@@ -40,7 +40,7 @@ sections:
 
 
           <div style="text-align: center">Application Deadline: December 21,
-          2024<https://carraadesk.com/job-by-wegagen-bank-dec-16-2024/></div>
+          2024Galma'uuf Send Kan jedhu Xuqa</div>
 
         actions:
           - type: Link
