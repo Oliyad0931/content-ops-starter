@@ -76,7 +76,16 @@ sections:
           altText: YouTube Keenya Subscribe Godha
           elementId: ''
           type: ImageBlock
-        actions: []
+        actions:
+          - type: Link
+            label: YouTube
+            altText: YouTube
+            url: 'https://youtube.com/@beeksiisahojiibiyyaguutuu?si=esP8qG6m-MYUyMwx'
+            showIcon: true
+            icon: youtube
+            iconPosition: left
+            style: secondary
+            elementId: ''
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
