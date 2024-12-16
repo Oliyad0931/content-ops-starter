@@ -28,10 +28,7 @@ bottomSections:
   - items:
       - title: Beeksiisa Hojii Biyya Guutuu
         tagline: Beeksiisa Hojii
-        subtitle: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at
-          auctor sapien.
+        subtitle: Yaalirra jirra
         image:
           url: /images/1280px-Flag_of_Ethiopia.svg.png
           altText: Company logo
