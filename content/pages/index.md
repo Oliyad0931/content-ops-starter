@@ -66,7 +66,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: Dhabbiile Dhuunfa
+      - title: YouTube
         subtitle: The Job Stuff
         text: >
           YouTube channel Keenya Subscribe Gochuun Nu Cina Dhaabadhan Afeera
