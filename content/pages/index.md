@@ -74,7 +74,7 @@ sections:
           explicabo.
         image:
           url: /images/CYMERA_20241216_200652.jpg
-          altText: Featured icon two
+          altText: YouTube Keenya Subscribe Godha
           elementId: ''
           type: ImageBlock
         actions: []
