@@ -142,7 +142,17 @@ sections:
           styles:
             self:
               borderRadius: x-large
-        actions: []
+        actions:
+          - type: Link
+            label: Instagram
+            altText: Instagram
+            url: >-
+              I'm+on+Instagram+as+@beeksiisaahojii.+Install+the+app+to+follow+my+photos+and+videos.+https://www.instagram.com/beeksiisaahojii?igsh=YzljYTk1ODg3Zg==
+            showIcon: true
+            icon: instagram
+            iconPosition: left
+            style: secondary
+            elementId: ''
         colors: bg-light-fg-dark
         styles:
           self:
