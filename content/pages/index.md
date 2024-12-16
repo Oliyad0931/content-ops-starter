@@ -101,10 +101,8 @@ sections:
         type: FeaturedItem
       - title: Facebook Keenya
         subtitle: Follow
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          Facebook Keenya Follow Gochuu Hin Dagatina 
         image:
           url: /images/CYMERA_20241216_201720.jpg
           altText: Featured icon three
