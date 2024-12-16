@@ -164,7 +164,7 @@ sections:
             borderRadius: x-large
             flexDirection: col-reverse
     actions:
-      - label: Get started
+      - label: ''
         altText: ''
         url: /
         showIcon: false
