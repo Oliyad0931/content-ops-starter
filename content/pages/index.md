@@ -15,12 +15,12 @@ sections:
       - type: FeaturedItem
         title: Baankii
         subtitle: Beeksiisa Hojii Bankii
-        text: >
+        text: >+
           \[ New] Job by Wegagen Bank Dec 16 2024
 
 
           Master’s/Bachelor’s Degree in Accounting, Finance, Business
-          Administration or related field 
+          Administration or related field
 
 
           Bachelor’s Degree in Procurement, Supplies Management , Management or
@@ -33,13 +33,15 @@ sections:
           Level IV or Diploma in Electricity and related fields
 
 
-          How to Apply 
+          How to Apply
 
 
-          https\://carraadesk.com/job-by-wegagen-bank-dec-16-2024/
+          <https://carraadesk.com/job-by-wegagen-bank-dec-16-2024/>
 
 
-          Application Deadline: December 21, 2024
+          <div style="text-align: center">Application Deadline: December 21,
+          2024<https://carraadesk.com/job-by-wegagen-bank-dec-16-2024/></div>
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
