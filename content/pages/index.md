@@ -402,7 +402,9 @@ sections:
       subtitle:
         textAlign: left
   - title:
-      text: Social Media Management
+      text: >-
+        Social Media Keenya Kanneenin Nu Hordofaa Follow Subscribe Gochuun Nu
+        Cina Ta'a
       color: text-dark
       type: TitleBlock
     subtitle: Increase your reach
