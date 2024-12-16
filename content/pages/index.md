@@ -120,6 +120,14 @@ sections:
         style: primary
         elementId: ''
         type: Button
+      - type: Link
+        altText: Reddit
+        url: 'https://carraadesk.com/job-by-wegagen-bank-dec-16-2024/'
+        showIcon: true
+        icon: reddit
+        iconPosition: left
+        style: secondary
+        elementId: ''
     badge:
       label: Nagaaf Fayyaa Hin Dhabiina
       color: text-primary
