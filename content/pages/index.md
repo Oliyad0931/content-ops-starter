@@ -42,7 +42,16 @@ sections:
           <div style="text-align: center">Application Deadline: December 21,
           2024<https://carraadesk.com/job-by-wegagen-bank-dec-16-2024/></div>
 
-        actions: []
+        actions:
+          - type: Link
+            label: Send
+            altText: Send
+            url: 'https://carraadesk.com/job-by-wegagen-bank-dec-16-2024/'
+            showIcon: true
+            icon: send
+            iconPosition: right
+            style: secondary
+            elementId: ''
         elementId: null
         colors: bg-neutralAlt-fg-dark
         styles:
