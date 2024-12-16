@@ -134,7 +134,7 @@ sections:
         tagline: ''
         subtitle: This is the item subtitle
         text: |
-          Follow the tutorial to build your first Netlify Create site.
+          Follow Gochuu Hin Dagatina
         image:
           type: ImageBlock
           url: /images/CYMERA_20241216_203059.jpg
