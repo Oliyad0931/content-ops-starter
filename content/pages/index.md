@@ -68,10 +68,9 @@ sections:
               borderRadius: x-large
       - title: Dhabbiile Dhuunfa
         subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          YouTube channel Keenya Subscribe Gochuun Nu Cina Dhaabadhan Afeera
+          keenya 
         image:
           url: /images/CYMERA_20241216_200652.jpg
           altText: YouTube Keenya Subscribe Godha
