@@ -133,7 +133,7 @@ sections:
       - url: /images/FB_IMG_17343431284811241.jpg
         altText: Wellster logo
         type: ImageBlock
-      - url: /images/vise-logo.svg
+      - url: /images/FB_IMG_17343431229666084.jpg
         altText: Vise logo
         type: ImageBlock
       - url: /images/telus-logo.svg
