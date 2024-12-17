@@ -15,26 +15,7 @@ sections:
       - type: FeaturedItem
         title: Baankii
         subtitle: Beeksiisa Hojii Bankii
-        text: >
-          \[ New] Job by Wegagen Bank Dec 16 2024
-
-
-          Master’s/Bachelor’s Degree in Accounting, Finance, Business
-          Administration or related field
-
-
-          Bachelor’s Degree in Procurement, Supplies Management , Management or
-          related fields
-
-
-          Bachelor’s Degree in Auto Mechanics or related field
-
-
-          Level IV or Diploma in Electricity and related fields
-
-
-          <div style="text-align: left">How to apply Application Deadline:
-          December 21, 2024Galma'uuf Send Kan jedhu Xuqa</div>
+        text: "Job Title: Graphic Design Officer\nApplication link - \n\nDuty Station: Marketing and Communication Directorate (Head Office)\n\n❇️ Major Duties and Responsibilities\n\U0001F449\U0001F3FEDevelop and produce high-quality graphic designs for various projects.\n\U0001F449\U0001F3FEEnsure consistency in branding and visual identity across all materials.\n\U0001F449\U0001F3FEStay updated on industry trends and design techniques to maintain a competitive edge.\n\U0001F449\U0001F3FEProvide input and feedback on design strategies and concepts.\n\nApplication link - \n\n❇️ Minimum Requirement\n\U0001F449\U0001F3FE First Degree in Marketing, Management or related fields\n\U0001F449\U0001F3FE 3 year of relevant experience\n\U0001F449\U0001F3FE Certificate of training in graphic design should be relevant.\n\nNB: Deadline to is December 21, 2024.\n\nAny physical application request will not be accepted. \n\\#Vacancy #We\\_are\\_Hiring!#BunnaBank #Vacancy #BankVacancy #ማስታውቂያ #ሥራ #ቅጥር #ባንክ #ቡና\\_ባንክ #ethiopianbanks #banking #banks #bunnabank #bankingservices #ethiopia #ethiopian #bankinginethiopia\n"
         actions:
           - type: Link
             label: Send
