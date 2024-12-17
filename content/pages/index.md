@@ -20,7 +20,7 @@ sections:
           - type: Link
             label: Send
             altText: Send
-            url: 'https://carraadesk.com/job-by-wegagen-bank-dec-16-2024/'
+            url: 'https://forms.gle/hBrPp9tFssgWEtHL9'
             showIcon: true
             icon: send
             iconPosition: right
