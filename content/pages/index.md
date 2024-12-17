@@ -157,8 +157,7 @@ sections:
         title: ''
         tagline: ''
         subtitle: ''
-        text: |
-          Follow Gochuu Hin Dagatina
+        text: "6 \U0001D423\U0001D428\U0001D41B\U0001D42C \U0001D41A\U0001D42F\U0001D41A\U0001D422\U0001D425\U0001D41A\U0001D41B\U0001D425\U0001D41E!\n\nFor the latest job opening, please follow our Telegram channel: \n\nhttps\\://t.me/DashenBankEthiopia\n"
         image:
           type: ImageBlock
           url: /images/FB_IMG_17344631727127231.jpg
