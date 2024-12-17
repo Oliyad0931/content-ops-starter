@@ -161,7 +161,7 @@ sections:
           Follow Gochuu Hin Dagatina
         image:
           type: ImageBlock
-          url: /images/CYMERA_20241216_203059.jpg
+          url: /images/FB_IMG_17344631727127231.jpg
           altText: Placeholder text
           styles:
             self:
