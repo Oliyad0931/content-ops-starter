@@ -53,7 +53,7 @@ sections:
           YouTube channel Keenya Subscribe Gochuun Nu Cina Dhaabadhan Afeera
           keenya 
         image:
-          url: /images/CYMERA_20241216_200652.jpg
+          url: /images/FB_IMG_17344594963541990.jpg
           altText: YouTube Keenya Subscribe Godha
           elementId: ''
           type: ImageBlock
