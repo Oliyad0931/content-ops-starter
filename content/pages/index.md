@@ -154,7 +154,7 @@ sections:
             flexDirection: row
         type: FeaturedItem
       - type: FeaturedItem
-        title: Instagram Keenya
+        title: ''
         tagline: ''
         subtitle: ''
         text: |
