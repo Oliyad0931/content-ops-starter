@@ -47,7 +47,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: YouTube
+      - title: Coop Bank
         subtitle: Odeeffannoo Haaraa Hedduu
         text: >
           YouTube channel Keenya Subscribe Gochuun Nu Cina Dhaabadhan Afeera
