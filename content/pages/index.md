@@ -170,7 +170,7 @@ sections:
         textAlign: center
   - subtitle: Award winning enterprises trust us
     images:
-      - url: /images/FB_IMG_17343432883583481.jpg
+      - url: /images/FB_IMG_17362482374623661.jpg
         altText: Empathy logo
         type: ImageBlock
       - url: /images/FB_IMG_17343431284811241.jpg
