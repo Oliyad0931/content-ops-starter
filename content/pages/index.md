@@ -10,7 +10,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Baga Ayyaana Qillee Nagaan Geessan
     items:
       - type: FeaturedItem
         title: Baankii
