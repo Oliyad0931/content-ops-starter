@@ -49,52 +49,7 @@ sections:
               borderRadius: x-large
       - title: Coop Bank
         subtitle: Odeeffannoo Haaraa Hedduu
-        text: >
-          External Vacancy Announcement
-
-          The Cooperative Bank of Oromia (Coopbank) is a prominent financial
-          institution in Ethiopia, established to provide banking services that
-          cater specifically to the needs of its members and the broader
-          community. Founded in 2004, Coopbank operates under the principles of
-          cooperative banking, which emphasizes mutual assistance and community
-          development. The bank has positioned itself as a key player in
-          promoting economic growth and social welfare across the country.
-
-          Coopbank’s mission is to empower communities through financial
-          inclusion, sustainable development, and innovative banking solutions.
-          The bank envisions a future where all members of society have access
-          to financial resources that enable them to improve their livelihoods
-          and contribute positively to their communities. This aligns with its
-          purpose: “Empowering Community Transforming Lives!”
-
-          To strengthen its work units, the bank is seeking qualified,
-          motivated, and skilled applicants who fulfill the following
-          requirements to fill its vacant positions.
-
-          Use the below links to apply the vacancies.
-
-
-          1.Job title: Banking Career Opportunity Announcement 
-
-
-          NOTICE:
-
-          Interested applicants should submit their education credential and
-          relevant work experience through the below link. The document should
-          be PDF format and each file size shall not exceed 1MB.
-
-          •Remuneration: As per the bank’s salary and benefits structure.
-
-          •Closing date: 5 working days from the date of the announcement.
-
-          •Female candidates are strongly encouraged to apply.
-
-          •Only shortlisted applicants will be contacted.
-
-          •  Application deadline: December 21, 2024.
-
-          Please join our official telegram channel via the link in the comments
-          for more details
+        text: ''
         image:
           url: /images/FB_IMG_17344594963541990.jpg
           altText: YouTube Keenya Subscribe Godha
