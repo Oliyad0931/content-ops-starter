@@ -258,7 +258,7 @@ sections:
         altText: Wellster logo
         elementId: ''
       - type: ImageBlock
-        url: /images/vise-logo.svg
+        url: /images/IMG_20250102_093933_950.jpg
         altText: Vise logo
         elementId: ''
       - type: ImageBlock
