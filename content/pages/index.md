@@ -256,7 +256,7 @@ sections:
       Omiisha fi Tajaajila Keessan  Beeksiifachuu Yoo Barbaadan Karaa Social
       Media Keenya Nuf Barreessa
     actions:
-      - label: Get started
+      - label: Beeksiisa
         altText: ''
         url: 'https://www.facebook.com/profile.php?id=61557352214549'
         showIcon: false
