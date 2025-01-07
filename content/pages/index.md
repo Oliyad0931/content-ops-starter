@@ -253,9 +253,8 @@ sections:
       type: TitleBlock
     subtitle: Beeksiisa Hojii
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Omiisha fi Tajaajila Keessan  Beeksiifachuu Yoo Barbaadan Karaa Social
+      Media Keenya Nuf Barreessa
     actions:
       - label: Get started
         altText: ''
