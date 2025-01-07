@@ -50,7 +50,6 @@ sections:
         subtitle: Odeeffannoo Haaraa Hedduu
         text: ''
         image:
-          url: /images/FB_IMG_17362481699947291.jpg
           altText: YouTube Keenya Subscribe Godha
           elementId: ''
           type: ImageBlock
