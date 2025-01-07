@@ -289,7 +289,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: OMISHA FI TAJAAJILA KEESSAN BEEKSIIFACHUU YOO BARBAADAN
       color: text-primary
       type: Badge
     elementId: ''
