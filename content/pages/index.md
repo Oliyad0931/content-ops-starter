@@ -265,6 +265,15 @@ sections:
         style: secondary
         elementId: ''
         type: Button
+      - type: Link
+        label: Facebook
+        altText: Facebook
+        url: 'https://www.facebook.com/profile.php?id=61557352214549'
+        showIcon: true
+        icon: facebook
+        iconPosition: left
+        style: secondary
+        elementId: ''
       - label: See Tutorials
         altText: Beeksiisahojiilebot
         url: '/https://my-beeksiisa-app.netlify.app'
