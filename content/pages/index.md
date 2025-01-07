@@ -248,7 +248,9 @@ sections:
         textAlign: center
   - type: GenericSection
     title:
-      text: 'Beeksiisa Hojii Biyya Guutuu Argachuuf Social media keenya Hordofaa '
+      text: >-
+        Omisha fi Tajaajila Keessan Beeksiifachuu Yoo Barbaadan Karaa Social
+        Media Keenya Nuf Barreessa 
       color: text-dark
       type: TitleBlock
     subtitle: Beeksiisa Hojii
