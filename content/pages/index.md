@@ -274,7 +274,7 @@ sections:
         iconPosition: left
         style: secondary
         elementId: ''
-      - label: See Tutorials
+      - label: APP TELEGRAM KEENYA
         altText: Beeksiisahojiilebot
         url: 'https://my-beeksiisa-app.netlify.app'
         showIcon: true
