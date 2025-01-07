@@ -114,7 +114,6 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/FB_IMG_17344631727127231.jpg
           altText: Placeholder text
           styles:
             self:
