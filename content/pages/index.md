@@ -83,7 +83,7 @@ sections:
         text: |
           Facebook Keenya Follow Gochuu Hin Dagatina 
         image:
-          url: /images/FB_IMG_17344629233462839.jpg
+          url: /images/FB_IMG_17362482939812925.jpg
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
