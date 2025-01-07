@@ -203,7 +203,7 @@ sections:
     subtitle: Our customers
     images:
       - type: ImageBlock
-        url: /images/empathy-logo.svg
+        url: /images/FB_IMG_17362483078845046.jpg
         altText: Empathy logo
         elementId: ''
       - type: ImageBlock
