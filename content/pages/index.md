@@ -257,7 +257,7 @@ sections:
       Media Keenya Nuf Barreessa
     actions:
       - label: Beeksiisa
-        altText: ''
+        altText: 'Omisha fi Tajaajila Keessan Beeksiifachuu Yoo Barbaadan '
         url: 'https://www.facebook.com/profile.php?id=61557352214549'
         showIcon: false
         icon: arrowRight
