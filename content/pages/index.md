@@ -183,7 +183,7 @@ sections:
       - url: /images/FB_IMG_17343431671984746.jpg
         altText: Contentful logo
         type: ImageBlock
-      - url: /images/FB_IMG_17362481699947291.jpg
+      - url: /images/FB_IMG_17343432883583481.jpg
         altText: Sanity logo
         type: ImageBlock
       - url: /images/FB_IMG_17332451347653232.jpg
