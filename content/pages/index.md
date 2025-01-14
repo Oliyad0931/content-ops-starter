@@ -221,7 +221,7 @@ sections:
         altText: Contentful logo
         elementId: ''
       - type: ImageBlock
-        url: /images/FB_IMG_17362482374623661.jpg
+        url: /images/FB_IMG_17343431229666084.jpg
         altText: Sanity logo
         elementId: ''
       - type: ImageBlock
