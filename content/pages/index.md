@@ -180,7 +180,7 @@ sections:
       - url: /images/telus-logo.svg
         altText: Telus logo
         type: ImageBlock
-      - url: /images/FB_IMG_17362482939812925.jpg
+      - url: /images/FB_IMG_17343431671984746.jpg
         altText: Contentful logo
         type: ImageBlock
       - url: /images/FB_IMG_17362481699947291.jpg
