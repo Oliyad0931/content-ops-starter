@@ -340,7 +340,7 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/hero2.svg
+      url: /images/FB_IMG_17332478076746953.jpg
       altText: Fun feature preview
       type: ImageBlock
     badge:
