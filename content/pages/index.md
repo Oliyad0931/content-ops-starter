@@ -198,7 +198,7 @@ sections:
         textAlign: center
     type: ImageGallerySection
   - type: ImageGallerySection
-    subtitle: Our customers
+    subtitle: 'Beeksiisa Hojii Biyya Guutuu '
     images:
       - type: ImageBlock
         url: /images/FB_IMG_17376568364379022.jpg
