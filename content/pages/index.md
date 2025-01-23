@@ -201,7 +201,7 @@ sections:
     subtitle: Our customers
     images:
       - type: ImageBlock
-        url: /images/FB_IMG_17332451347653232.jpg
+        url: /images/FB_IMG_17376568364379022.jpg
         altText: Empathy logo
         elementId: ''
       - type: ImageBlock
