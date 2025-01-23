@@ -15,7 +15,7 @@ sections:
       Feetan Nu Qunnama
     items:
       - type: FeaturedItem
-        title: Baankii
+        title: Muuxannoo
         subtitle: Beeksiisa Hojii Bankii
         text: ''
         actions:
