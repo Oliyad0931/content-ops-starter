@@ -228,6 +228,13 @@ sections:
         url: /images/FB_IMG_17376568012137266.jpg
         altText: Rangle logo
         elementId: ''
+      - type: ImageBlock
+        url: /images/hero2.svg
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
     elementId: ''
     motion: static
     colors: bg-light-fg-dark
