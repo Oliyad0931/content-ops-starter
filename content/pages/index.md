@@ -16,7 +16,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Muuxannoo
-        subtitle: Beeksiisa Hojii Bankii
+        subtitle: 'Experience Barreeffachu yoo Feetan Asin Nuf Barreessa '
         text: ''
         actions:
           - type: Link
