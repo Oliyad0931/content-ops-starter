@@ -205,7 +205,7 @@ sections:
         altText: Empathy logo
         elementId: ''
       - type: ImageBlock
-        url: /images/FB_IMG_17343431671984746.jpg
+        url: /images/FB_IMG_17376568275303265.jpg
         altText: Wellster logo
         elementId: ''
       - type: ImageBlock
