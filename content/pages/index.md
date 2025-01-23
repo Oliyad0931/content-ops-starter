@@ -149,7 +149,7 @@ sections:
         style: secondary
         elementId: ''
     badge:
-      label: Nagaaf Fayyaa Hin Dhabiina
+      label: NGO ADDA ADDAA F
       color: text-primary
       styles:
         self:
