@@ -225,7 +225,7 @@ sections:
         altText: Sanity logo
         elementId: ''
       - type: ImageBlock
-        url: /images/FB_IMG_17343431284811241.jpg
+        url: /images/FB_IMG_17376568012137266.jpg
         altText: Rangle logo
         elementId: ''
     elementId: ''
