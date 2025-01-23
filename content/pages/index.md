@@ -213,7 +213,7 @@ sections:
         altText: Vise logo
         elementId: ''
       - type: ImageBlock
-        url: /images/FB_IMG_17343432883583481.jpg
+        url: /images/FB_IMG_17376568214558504.jpg
         altText: Telus logo
         elementId: ''
       - type: ImageBlock
