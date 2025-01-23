@@ -382,5 +382,5 @@ seo:
   socialImage: /images/FB_IMG_17332478076746953.jpg
   type: Seo
 type: PageLayout
-isDraft: false
+isDraft: true
 ---
