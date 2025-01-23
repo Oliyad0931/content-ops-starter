@@ -10,7 +10,9 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Baga Ayyaana Qillee Nagaan Geessan
+    subtitle: >-
+      Namootni Experience Akka Dhaabbata Dhuunfa fi Mootumma Irra Barreeffachu
+      Feetan Nu Qunnama
     items:
       - type: FeaturedItem
         title: Baankii
