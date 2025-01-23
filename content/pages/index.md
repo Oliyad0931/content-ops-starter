@@ -189,7 +189,7 @@ sections:
       - url: /images/FB_IMG_17332451347653232.jpg
         altText: Rangle logo
         type: ImageBlock
-    motion: move-to-left
+    motion: static
     colors: bg-light-fg-dark
     styles:
       self:
