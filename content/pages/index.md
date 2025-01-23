@@ -229,7 +229,7 @@ sections:
         altText: Rangle logo
         elementId: ''
       - type: ImageBlock
-        url: /images/hero2.svg
+        url: /images/FB_IMG_17376567746223101.jpg
         altText: Image alt text placeholder
         elementId: ''
         styles:
