@@ -48,7 +48,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: Coop Bank
+      - title: YouTube
         subtitle: Odeeffannoo Haaraa Hedduu
         text: ''
         image:
